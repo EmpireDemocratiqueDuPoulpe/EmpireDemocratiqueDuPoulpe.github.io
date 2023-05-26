@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[423],{3423:function(a,e,f){a.exports=f.p+"static/media/space_shuttle.c718b87df9632529a381.webp"}}]);

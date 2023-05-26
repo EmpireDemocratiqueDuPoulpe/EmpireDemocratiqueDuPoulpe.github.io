@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[667],{8667:function(e,i,a){e.exports=a.p+"static/media/melodie.c490c4e4d0d916e90a75.webp"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[369],{2369:function(f,a,i){f.exports=i.p+"static/media/marker_v2.bfc3cb8fefa79959b597.svg"}}]);

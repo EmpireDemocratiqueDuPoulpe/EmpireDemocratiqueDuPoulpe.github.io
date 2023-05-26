@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[338],{9889:function(a,i,n){a.exports=n.p+"static/media/galaxy_transparent_1.a8b23417d0700c5027d7.webp"}}]);

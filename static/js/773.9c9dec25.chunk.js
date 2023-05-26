@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[773],{2773:function(a,f,i){a.exports=i.p+"static/media/astronaut.374189f824c44d26aea4.webp"}}]);

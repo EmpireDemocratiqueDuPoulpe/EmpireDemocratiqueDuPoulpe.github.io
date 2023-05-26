@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_v336_final_final_temp_final=self.webpackChunkportfolio_v336_final_final_temp_final||[]).push([[719],{7719:function(f,i,a){f.exports=a.p+"static/media/instabus.72f1219b38033a24128f.png"}}]);
